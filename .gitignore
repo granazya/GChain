@@ -1,0 +1,15 @@
+# C++ build files
+/build/
+*.o
+*.obj
+*.exe
+*.out
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# VS Code specific
+.vscode/
